@@ -16,7 +16,7 @@ This simple Python utility allows you to change the ownership and access rights 
 
 ## Usage:
 
-1.  Download and run the executable file (`.exe`) (or the source script `gui_change_access.py` with `Python`).
+1.  Download and run the executable file (`.exe`) (or the source script `main.py` with `Python`).
 2.  Click the "Browse..." button to select the desired folder.
 3.  Click the "Change Access Rights" button to apply the changes.
 
@@ -42,7 +42,7 @@ Icon is from Flaticon.com, by UIcons.
 
 ## Использование:
 
-1.  Скачайте и запустите исполняемый файл (`.exe`) (или исходный скрипт `gui_change_access.py` с `Python`).
+1.  Скачайте и запустите исполняемый файл (`.exe`) (или исходный скрипт `main.py` с `Python`).
 2.  Нажмите кнопку "Обзор...", чтобы выбрать нужную папку.
 3.  Нажмите кнопку "Изменить права доступа", чтобы применить изменения.
 
