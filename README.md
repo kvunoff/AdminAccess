@@ -7,12 +7,12 @@ This simple Python utility allows you to change the ownership and access rights 
 
 ## Features:
 
-•   **Graphical User Interface (GUI):** User-friendly interface for selecting a folder or file.
-•   **Administrator Privileges Request:** Automatically requests administrator privileges upon launch.
-•   **Ownership Change:** Allows you to become the owner of the selected folder or file.
-•   **Full Access:** Provides full access for administrators to the selected object.
-•   **Icon Attribution:** Indicates the source and author of the icon in the application window.
-•   **Window Icon:** The application has a custom icon in the window title bar.
+•   **Graphical User Interface (GUI):** User-friendly interface for selecting a folder or file.<br>
+•   **Administrator Privileges Request:** Automatically requests administrator privileges upon launch.<br>
+•   **Ownership Change:** Allows you to become the owner of the selected folder or file.<br>
+•   **Full Access:** Provides full access for administrators to the selected object.<br>
+•   **Icon Attribution:** Indicates the source and author of the icon in the application window.<br>
+•   **Window Icon:** The application has a custom icon in the window title bar.<br>
 
 ## Usage:
 
@@ -33,12 +33,12 @@ Icon is from Flaticon.com, by UIcons.
 
 ## Особенности:
 
-•   **Графический интерфейс (GUI):** Удобный интерфейс для выбора папки или файла.
-•   **Запрос прав администратора:** Автоматически запрашивает права администратора при запуске.
-•   **Изменение владельца:** Позволяет стать владельцем выбранной папки или файла.
-•   **Полный доступ:** Предоставляет полный доступ администраторам к выбранному объекту.
-•   **Авторство иконки:** Указывает источник и автора иконки в окне приложения.
-•   **Иконка окна:** Приложение имеет кастомную иконку в заголовке окна.
+•   **Графический интерфейс (GUI):** Удобный интерфейс для выбора папки или файла.<br>
+•   **Запрос прав администратора:** Автоматически запрашивает права администратора при запуске.<br>
+•   **Изменение владельца:** Позволяет стать владельцем выбранной папки или файла.<br>
+•   **Полный доступ:** Предоставляет полный доступ администраторам к выбранному объекту.<br>
+•   **Авторство иконки:** Указывает источник и автора иконки в окне приложения.<br>
+•   **Иконка окна:** Приложение имеет кастомную иконку в заголовке окна.<br>
 
 ## Использование:
 
