@@ -75,14 +75,6 @@ if __name__ == "__main__":
     window.title("Изменение прав доступа")
     window.geometry("400x200")
 
-    # Установка иконки окна (используем try-except для обработки ошибок)
-    try:
-        script_dir = os.path.dirname(os.path.abspath(__file__))  # получаем путь к папке со скриптом
-        icon_path = os.path.join(script_dir, "icon.ico")  # указываем путь к иконке
-        window.iconbitmap(icon_path)
-    except Exception as e:
-        print(f"Проблема при загрузке иконки окна:\n{e}")
-
     # Заголовок
     header_label = tk.Label(window, text="Выберите путь к папке", font=("Arial", 12))
     header_label.pack(pady=10)
